@@ -10,7 +10,7 @@ Find one misspell on the BreatheCode lessons, projects or exercises and create a
 
 ### 1. To fix a misspell on a BreatheCode Lesson:  
 
-![Github logo on breathecode lesson](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
+![Github on breathecode lesson](https://github.com/breatheco-de/the-misspell-chalenge/blob/master/github-logo.png?raw=true)
 
 1.1. Click on the Github logo at the top of the lesson, it will take you to the lesson source file on github.com.  
 1.2. Click on the pencil icon (edit) and the lesson source file will become editable.  
